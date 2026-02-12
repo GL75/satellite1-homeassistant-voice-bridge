@@ -9,7 +9,7 @@
 <h2>💡 The Challenge</h2>
 <p>The Satellite1 is design to play the TTS (Text-to-Speech) response through their own small speakers. However, enthusiasts may want to leverage other media players, in my case Sonos speakers installed in the ceiling. </p>
 
-<h2>🚀 The Solution: The MQTT Text-Bridge</h2>
+<h2>🚀 The Solution: The MQTT TTS-Bridge</h2>
 <p>Leveraging MQTT between the Satellite1 and Home assistant unlock few interesting possibilities. The ESP32 can publish MQTT topics at different stages of the intent process under the <b>voice_assistant:</b> section of the ESP32 yaml file. If you don't have an MQTT broker, it is quick an easy setup. Available as an add-on in HAOS. Has become my preferred method to communicated between platforms (HA, ESP32, Node-Red, Frigate, etc...</p>
 
 
