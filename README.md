@@ -1,4 +1,4 @@
-<h1 align="center">Satellite1 - Reroute Voice Outout to Any External Media in Home Assistant</h1>
+<h1 align="center">Satellite1 - Reroute Voice Output to Any External Media in Home Assistant</h1>
 
 <p align="center">
   <strong>A versatile architectural pattern to decouple the Satellite1's audio response from its local hardware. This allows you to reroute "Assist" responses to any media player integration (Sonos, HEOS, Volumio, etc.) using MQTT as a bridge between the Satellite1 and HA.</strong>
